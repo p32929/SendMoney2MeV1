@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyReactBoilerplate/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/MyReactBoilerplate/static/js/main.4a92254a.chunk.js",
+    "main.js.map": "/MyReactBoilerplate/static/js/main.4a92254a.chunk.js.map",
+    "runtime-main.js": "/MyReactBoilerplate/static/js/runtime-main.ca745e91.js",
+    "runtime-main.js.map": "/MyReactBoilerplate/static/js/runtime-main.ca745e91.js.map",
+    "static/js/2.4535b27b.chunk.js": "/MyReactBoilerplate/static/js/2.4535b27b.chunk.js",
+    "static/js/2.4535b27b.chunk.js.map": "/MyReactBoilerplate/static/js/2.4535b27b.chunk.js.map",
+    "index.html": "/MyReactBoilerplate/index.html",
+    "precache-manifest.1bd5c87897d74ffbedc37dccdebd35c5.js": "/MyReactBoilerplate/precache-manifest.1bd5c87897d74ffbedc37dccdebd35c5.js",
+    "service-worker.js": "/MyReactBoilerplate/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/MyReactBoilerplate/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4535b27b.chunk.js.LICENSE.txt": "/MyReactBoilerplate/static/js/2.4535b27b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca745e91.js",
+    "static/js/2.4535b27b.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4a92254a.chunk.js"
+  ]
+}
