@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MyReactBoilerplate/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/MyReactBoilerplate/static/js/main.4a92254a.chunk.js",
-    "main.js.map": "/MyReactBoilerplate/static/js/main.4a92254a.chunk.js.map",
-    "runtime-main.js": "/MyReactBoilerplate/static/js/runtime-main.ca745e91.js",
-    "runtime-main.js.map": "/MyReactBoilerplate/static/js/runtime-main.ca745e91.js.map",
-    "static/js/2.4535b27b.chunk.js": "/MyReactBoilerplate/static/js/2.4535b27b.chunk.js",
-    "static/js/2.4535b27b.chunk.js.map": "/MyReactBoilerplate/static/js/2.4535b27b.chunk.js.map",
-    "index.html": "/MyReactBoilerplate/index.html",
-    "precache-manifest.1bd5c87897d74ffbedc37dccdebd35c5.js": "/MyReactBoilerplate/precache-manifest.1bd5c87897d74ffbedc37dccdebd35c5.js",
-    "service-worker.js": "/MyReactBoilerplate/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/MyReactBoilerplate/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.4535b27b.chunk.js.LICENSE.txt": "/MyReactBoilerplate/static/js/2.4535b27b.chunk.js.LICENSE.txt"
+    "main.css": "/SendMoney2Me/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/SendMoney2Me/static/js/main.592c4b11.chunk.js",
+    "main.js.map": "/SendMoney2Me/static/js/main.592c4b11.chunk.js.map",
+    "runtime-main.js": "/SendMoney2Me/static/js/runtime-main.4e5e4049.js",
+    "runtime-main.js.map": "/SendMoney2Me/static/js/runtime-main.4e5e4049.js.map",
+    "static/js/2.4535b27b.chunk.js": "/SendMoney2Me/static/js/2.4535b27b.chunk.js",
+    "static/js/2.4535b27b.chunk.js.map": "/SendMoney2Me/static/js/2.4535b27b.chunk.js.map",
+    "index.html": "/SendMoney2Me/index.html",
+    "precache-manifest.9e154ccc7f654224b25daa045f40f0d8.js": "/SendMoney2Me/precache-manifest.9e154ccc7f654224b25daa045f40f0d8.js",
+    "service-worker.js": "/SendMoney2Me/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/SendMoney2Me/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4535b27b.chunk.js.LICENSE.txt": "/SendMoney2Me/static/js/2.4535b27b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca745e91.js",
+    "static/js/runtime-main.4e5e4049.js",
     "static/js/2.4535b27b.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.4a92254a.chunk.js"
+    "static/js/main.592c4b11.chunk.js"
   ]
 }
