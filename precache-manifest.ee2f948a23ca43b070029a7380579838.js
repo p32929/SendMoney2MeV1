@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32465c04ec456042d30f8c5e363fe0b0",
+    "revision": "b12edd3798251d849bb4c8a8d7f196ba",
     "url": "/SendMoney2Me/index.html"
   },
   {
-    "revision": "36e380a28804e3761a25",
+    "revision": "3ef45bec90c4c3d2935e",
     "url": "/SendMoney2Me/static/css/main.69eda509.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/SendMoney2Me/static/js/2.58296efc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "36e380a28804e3761a25",
-    "url": "/SendMoney2Me/static/js/main.45c7284c.chunk.js"
+    "revision": "3ef45bec90c4c3d2935e",
+    "url": "/SendMoney2Me/static/js/main.df4f6b0f.chunk.js"
   },
   {
     "revision": "a1dd6ef061ceef7dbdaf",

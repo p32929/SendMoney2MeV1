@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/SendMoney2Me/static/css/main.69eda509.chunk.css",
-    "main.js": "/SendMoney2Me/static/js/main.45c7284c.chunk.js",
-    "main.js.map": "/SendMoney2Me/static/js/main.45c7284c.chunk.js.map",
+    "main.js": "/SendMoney2Me/static/js/main.df4f6b0f.chunk.js",
+    "main.js.map": "/SendMoney2Me/static/js/main.df4f6b0f.chunk.js.map",
     "runtime-main.js": "/SendMoney2Me/static/js/runtime-main.4e5e4049.js",
     "runtime-main.js.map": "/SendMoney2Me/static/js/runtime-main.4e5e4049.js.map",
     "static/js/2.58296efc.chunk.js": "/SendMoney2Me/static/js/2.58296efc.chunk.js",
     "static/js/2.58296efc.chunk.js.map": "/SendMoney2Me/static/js/2.58296efc.chunk.js.map",
     "index.html": "/SendMoney2Me/index.html",
-    "precache-manifest.251e6b779823c84333bfbad81e1472e7.js": "/SendMoney2Me/precache-manifest.251e6b779823c84333bfbad81e1472e7.js",
+    "precache-manifest.ee2f948a23ca43b070029a7380579838.js": "/SendMoney2Me/precache-manifest.ee2f948a23ca43b070029a7380579838.js",
     "service-worker.js": "/SendMoney2Me/service-worker.js",
     "static/css/main.69eda509.chunk.css.map": "/SendMoney2Me/static/css/main.69eda509.chunk.css.map",
     "static/js/2.58296efc.chunk.js.LICENSE.txt": "/SendMoney2Me/static/js/2.58296efc.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4e5e4049.js",
     "static/js/2.58296efc.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.45c7284c.chunk.js"
+    "static/js/main.df4f6b0f.chunk.js"
   ]
 }
