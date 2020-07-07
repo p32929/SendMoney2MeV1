@@ -50,7 +50,7 @@ const Whole = (props) => {
             }
 
             {
-                state.selectedIndex > 0 && <Grid container style={{width: '95%', marginTop: 16}}>
+                state.selectedIndex > 0 && <Grid container style={{width: '90%', marginTop: 16}}>
                     {
                         state.countries[state.selectedIndex - 1].options.map((item, index) => {
                             return <OurListItem item={item}/>
