@@ -16,7 +16,6 @@ const Whole = (props) => {
         if (!state.countries) {
             NodeFetchHelper.get('https://api.npoint.io/7d794873dd098890278d', null, (status, data) => {
                 actions.setCountried(data)
-                actions.setSelectedIndex(1)
             })
         }
     }, [])
