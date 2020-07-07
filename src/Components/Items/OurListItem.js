@@ -4,6 +4,7 @@ import Paper from "@material-ui/core/Paper";
 import Avatar from "@material-ui/core/Avatar";
 import Typography from "@material-ui/core/Typography";
 import Button from "@material-ui/core/Button";
+import {Hidden} from "@material-ui/core";
 
 const styles = {
     avatar: {
@@ -27,7 +28,7 @@ const OurListItem = (props) => {
                     <Grid container direction='column' justify='flex-start'
                           alignContent='flex-start'
                           alignItems='flex-start'>
-                        <Typography style={styles.desc} variant='body2'>{item.desc || item.link}</Typography>
+                        <Typography style={styles.desc} variant='body1'>{item.desc || item.link}</Typography>
                     </Grid>
                     <Button style={{marginTop: 16}} target="_blank"
                             href={item.link} variant='outlined' color='primary'>Go to {item.title}</Button>
