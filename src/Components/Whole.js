@@ -14,7 +14,7 @@ const Whole = (props) => {
     const {actions, state} = useOvermind()
     useEffect(() => {
         if (!state.countries) {
-            NodeFetchHelper.get('https://api.npoint.io/7d794873dd098890278d', null, (status, data) => {
+            NodeFetchHelper.get('https://api.npoint.io/4d142c7ac93099c77456', null, (status, data) => {
                 actions.setCountried(data)
             })
         }
