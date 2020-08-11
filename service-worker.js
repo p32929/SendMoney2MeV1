@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/SendMoney2Me/precache-manifest.3d894c0538a72fc3e20ae63f49d32688.js"
+  "/SendMoney2Me/precache-manifest.c096e36741ad4e32265ecbbec27f701a.js"
 );
 
 self.addEventListener('message', (event) => {
