@@ -29,6 +29,12 @@ const TopWelcomeMessages = () => {
                 WELCOME
             </Typography>
 
+            <Typography target="_blank" component={'a'} href='https://github.com/p32929/SendMoney2Me'
+                        variant='subtitle1'
+                        style={styles.bottomMessage}>
+                click here to STAR/FORK it
+            </Typography>
+
             <Typography variant='subtitle1' style={styles.bottomMessage}>
                 Send money directly to <Hidden smUp><br/></Hidden> <b>Fayaz Bin Salam</b>
                 <br/>
