@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b06a806f2d85f6a394f2f67d619e7aeb",
+    "revision": "ad3f7ad4cade69caf680e3b36924ff63",
     "url": "/SendMoney2Me/index.html"
   },
   {
