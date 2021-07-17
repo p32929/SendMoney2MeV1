@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SendMoney2Me/static/css/main.69eda509.chunk.css",
-    "main.js": "/SendMoney2Me/static/js/main.ecc1c207.chunk.js",
-    "main.js.map": "/SendMoney2Me/static/js/main.ecc1c207.chunk.js.map",
+    "main.css": "/SendMoney2Me/static/css/main.1c3fdcaf.chunk.css",
+    "main.js": "/SendMoney2Me/static/js/main.fbde98e4.chunk.js",
+    "main.js.map": "/SendMoney2Me/static/js/main.fbde98e4.chunk.js.map",
     "runtime-main.js": "/SendMoney2Me/static/js/runtime-main.4e5e4049.js",
     "runtime-main.js.map": "/SendMoney2Me/static/js/runtime-main.4e5e4049.js.map",
-    "static/js/2.5506851b.chunk.js": "/SendMoney2Me/static/js/2.5506851b.chunk.js",
-    "static/js/2.5506851b.chunk.js.map": "/SendMoney2Me/static/js/2.5506851b.chunk.js.map",
+    "static/js/2.a026fab1.chunk.js": "/SendMoney2Me/static/js/2.a026fab1.chunk.js",
+    "static/js/2.a026fab1.chunk.js.map": "/SendMoney2Me/static/js/2.a026fab1.chunk.js.map",
     "index.html": "/SendMoney2Me/index.html",
-    "precache-manifest.e4368f8f1a7ce53105557571d5d9196d.js": "/SendMoney2Me/precache-manifest.e4368f8f1a7ce53105557571d5d9196d.js",
+    "precache-manifest.bea14fa12e80bce790bb1e22c85f903f.js": "/SendMoney2Me/precache-manifest.bea14fa12e80bce790bb1e22c85f903f.js",
     "service-worker.js": "/SendMoney2Me/service-worker.js",
-    "static/css/main.69eda509.chunk.css.map": "/SendMoney2Me/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.5506851b.chunk.js.LICENSE.txt": "/SendMoney2Me/static/js/2.5506851b.chunk.js.LICENSE.txt"
+    "static/css/main.1c3fdcaf.chunk.css.map": "/SendMoney2Me/static/css/main.1c3fdcaf.chunk.css.map",
+    "static/js/2.a026fab1.chunk.js.LICENSE.txt": "/SendMoney2Me/static/js/2.a026fab1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4e5e4049.js",
-    "static/js/2.5506851b.chunk.js",
-    "static/css/main.69eda509.chunk.css",
-    "static/js/main.ecc1c207.chunk.js"
+    "static/js/2.a026fab1.chunk.js",
+    "static/css/main.1c3fdcaf.chunk.css",
+    "static/js/main.fbde98e4.chunk.js"
   ]
 }
