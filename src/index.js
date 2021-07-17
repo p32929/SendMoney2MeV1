@@ -2,15 +2,11 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker';
-import {Provider} from "overmind-react";
-import {overmind} from './Others/OvermindHelper'
 import Whole from "./Components/Whole";
 
 ReactDOM.render(
     <React.StrictMode>
-        <Provider value={overmind}>
-            <Whole/>
-        </Provider>
+        <Whole/>
     </React.StrictMode>,
     document.getElementById('root')
 );
