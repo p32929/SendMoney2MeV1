@@ -8,13 +8,12 @@ import Select from "@material-ui/core/Select";
 import {NodeFetchHelper} from "../Others/NodeFetchHelper";
 import CircularProgress from "@material-ui/core/CircularProgress";
 import OurListItem from "./Items/OurListItem";
-import Typography from "@material-ui/core/Typography";
 
 const Whole = (props) => {
     const {actions, state} = useOvermind()
     useEffect(() => {
         if (!state.countries) {
-            NodeFetchHelper.get('https://api.npoint.io/4d142c7ac93099c77456', null, (status, data) => {
+            NodeFetchHelper.get('https://api.npoint.io/4d142c7ac93099c77456', null, null, (status, data) => {
                 actions.setCountried(data)
             })
         }
