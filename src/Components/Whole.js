@@ -78,7 +78,7 @@ const Whole = (props) => {
                                                        setOpen(false)
                                                    }} onChange={(event) => {
                             setSelectedOption(parseInt(event.target.value))
-                        }} style={{marginTop: 16, marginRight: 16}}>
+                        }} style={{marginRight: 16}}>
                             {
                                 data?.map((item, index) => {
                                     return <MenuItem value={index}>{item?.country}</MenuItem>
