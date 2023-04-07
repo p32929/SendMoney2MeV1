@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SendMoney2Me/static/css/main.1c3fdcaf.chunk.css",
-    "main.js": "/SendMoney2Me/static/js/main.298a8e22.chunk.js",
-    "main.js.map": "/SendMoney2Me/static/js/main.298a8e22.chunk.js.map",
+    "main.css": "/SendMoney2Me/static/css/main.8917f35e.chunk.css",
+    "main.js": "/SendMoney2Me/static/js/main.c5ab42af.chunk.js",
+    "main.js.map": "/SendMoney2Me/static/js/main.c5ab42af.chunk.js.map",
     "runtime-main.js": "/SendMoney2Me/static/js/runtime-main.4e5e4049.js",
     "runtime-main.js.map": "/SendMoney2Me/static/js/runtime-main.4e5e4049.js.map",
-    "static/js/2.a026fab1.chunk.js": "/SendMoney2Me/static/js/2.a026fab1.chunk.js",
-    "static/js/2.a026fab1.chunk.js.map": "/SendMoney2Me/static/js/2.a026fab1.chunk.js.map",
+    "static/js/2.7e675fdf.chunk.js": "/SendMoney2Me/static/js/2.7e675fdf.chunk.js",
+    "static/js/2.7e675fdf.chunk.js.map": "/SendMoney2Me/static/js/2.7e675fdf.chunk.js.map",
     "index.html": "/SendMoney2Me/index.html",
-    "precache-manifest.050707c93e53da2ac413c44ff58f009d.js": "/SendMoney2Me/precache-manifest.050707c93e53da2ac413c44ff58f009d.js",
+    "precache-manifest.3db3ad1c596b588e92ac7c96f899f662.js": "/SendMoney2Me/precache-manifest.3db3ad1c596b588e92ac7c96f899f662.js",
     "service-worker.js": "/SendMoney2Me/service-worker.js",
-    "static/css/main.1c3fdcaf.chunk.css.map": "/SendMoney2Me/static/css/main.1c3fdcaf.chunk.css.map",
-    "static/js/2.a026fab1.chunk.js.LICENSE.txt": "/SendMoney2Me/static/js/2.a026fab1.chunk.js.LICENSE.txt"
+    "static/css/main.8917f35e.chunk.css.map": "/SendMoney2Me/static/css/main.8917f35e.chunk.css.map",
+    "static/js/2.7e675fdf.chunk.js.LICENSE.txt": "/SendMoney2Me/static/js/2.7e675fdf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4e5e4049.js",
-    "static/js/2.a026fab1.chunk.js",
-    "static/css/main.1c3fdcaf.chunk.css",
-    "static/js/main.298a8e22.chunk.js"
+    "static/js/2.7e675fdf.chunk.js",
+    "static/css/main.8917f35e.chunk.css",
+    "static/js/main.c5ab42af.chunk.js"
   ]
 }
