@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "private": true,
   "author": "p32929",
-  "homepage": "https://p32929.github.io/SendMoney2Me/",
+  "homepage": "https://p32929.github.io/SendMoney2MeV1/",
   "dependencies": {
     "@material-ui/core": "^4.10.2",
     "@testing-library/jest-dom": "^5.10.1",

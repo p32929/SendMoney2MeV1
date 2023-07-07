@@ -20,3 +20,8 @@ If you like my works and want to support me/my works, feel free to support or do
 
 # Live
 https://p32929.github.io/SendMoney2Me/
+
+# Notice
+I'm deprecating this repo. Gonna create a new one with new tech. Still, seel free to use it however you want. But this commit might be the last commit on this repo. 
+
+Have a wonderful day everyone...
